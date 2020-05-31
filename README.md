@@ -9,6 +9,8 @@ To ensure the README generator operates, you will have to run a npm install to m
 ## Usage
 When using Running within the terminal make sure you answer the questions asked and follow the instructions such as entering ',,' to enter a new line for the markdown file.
 
+In the event that the user selects none for license, the text underneath license will not appear and the badge will indicate none also
+
 The questions asked will include:
 - Title of the project
 - Description of the project

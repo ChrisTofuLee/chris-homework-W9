@@ -47,6 +47,11 @@ const questions = [
     name: "name",
     message: "Enter your name",
   },
+  {
+    type: "input",
+    name: "username",
+    message: "Enter your GitHub username",
+  },
   // {
   //   type: "editor",
   //   name: "description",

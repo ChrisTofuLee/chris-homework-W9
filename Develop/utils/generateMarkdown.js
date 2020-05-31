@@ -26,7 +26,7 @@ function generateMarkdown(data) {
 
     let testsOutput = "";
     for (let i = 0; i < testsSplit.length; i++) {
-      testsOutput += "- " + testsSplit[i] + "<br /><br />";
+      testsOutput += testsSplit[i] + "<br /><br />";
     }
   
   return `
@@ -59,7 +59,10 @@ ${testsOutput}
 ## Contributors
 ${creditsOutput}
 
+##### GitHub link: [GitHub Profile](https://github.com/${data.username})
+
 ---
+
 ## License
 Copyright © 2020 ${data.name}
 

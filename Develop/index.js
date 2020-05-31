@@ -20,17 +20,17 @@ const questions = [
   {
     type: "input",
     name: "description",
-    message: "Enter a a description of your project",
+    message: "Enter a description of your project",
   },
   {
     type: "input",
     name: "instillation",
-    message: "List out the steps required to install your project(using ',,' to enter a new step)",
+    message: "List out the steps required to install your project (using ',,' to enter a new step)",
   },
   {
     type: "input",
     name: "usage",
-    message: "Provide instructions on how to use this application(using ',,' to enter a new line)",
+    message: "Provide instructions on how to use this application (using ',,' to enter a new line)",
   },
   {
     type: "input",

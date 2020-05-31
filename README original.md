@@ -1,4 +1,4 @@
-# Unit 09 Node.js and ES6+ Homework: Good README Generator
+p# Unit 09 Node.js and ES6+ Homework: Good README Generator
 
 Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:
 
@@ -10,7 +10,7 @@ The user will be prompted for their GitHub username and other information pertai
 
 The README will be populated with the following:
 
-- At least one badge
+- At least one badge **
 - Project title
 - Description
 - Table of Contents
@@ -21,7 +21,8 @@ The README will be populated with the following:
 - Tests
 - Questions
   - User GitHub profile picture
-  - User GitHub email
+  - User GitHub email 
+          - use these 2 details to generate a URL 
 
 Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
 
